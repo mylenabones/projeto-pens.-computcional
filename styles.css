@@ -2,3 +2,16 @@ body{
     background: pink;
     color: navy;
 }
+section{
+    background-color: darkmagenta;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: flex;
+    justify-content: center;}
+
+    header{
+margin: 5%;
+font-size: 40px;
+text-align: center;
+color: black;
+    }
